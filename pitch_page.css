@@ -1,0 +1,111 @@
+*{
+     font-family: 'Roboto', sans-serif;
+}
+
+.bg0{
+  background-image:url(_MG_4314A.jpg 400/1000);
+     background-size: cover;  
+}
+
+.bg1{
+  background-image:url(_MG_4325A.jpg);
+    background-size: cover;    
+}
+
+.bg2{
+  background-image:url(_MG_4314A.jpg);
+  background-size: cover;
+}
+
+.bg3{
+  background-image:url(IMG_7425A.jpg);
+background-size: cover;
+}
+
+
+.bg4{
+  background-image:url(IMG_7490A.jpg);
+  background-size: cover;
+}
+
+.bg5{
+  background-image:url(IMG_7491A.jpg);
+     background-size: cover; 
+}
+
+
+.bg6{
+  background-image:url(IMG_7610A.jpg);
+   background-size: cover;
+}
+
+.bg7{
+  background-image:url(IMG_7756A.jpg);
+background-size: cover;
+}
+
+.bg8{
+  background-image:url(IMG_7858S.jpg);
+ background-size: cover;
+}
+
+.bg9{
+  background-image:url(IMG_7882A.jpg);
+background-size: cover;
+}
+
+
+
+#tile{
+     position: absolute;
+     height: 450px;
+     width: 400px;
+     padding:40px;
+     margin-left: 450px;
+     margin-top: 75px; 
+     background-color:rgba(255,255,255,.6);
+}
+
+#photo{
+     height: auto;
+     width: auto;
+     max-height: 200px;
+     max-width: 200px;
+     border-radius: 200px;
+     margin-left: 100px;
+     overflow: hidden;   
+           
+}
+
+h1{
+  margin-top:50px;
+  text-align:center;
+}
+
+h3{
+  text-align:center;
+}
+
+footer{
+      display:flex; 
+      height: auto;
+      width:400px;
+      justify-content: center;
+      margin-top: 75px;
+}
+
+#insta{
+     height: 30px;
+     width:30px;
+     margin: 0 50px;
+}
+
+#twit{
+     height: 30px;
+     width:30px;
+    
+}
+
+#foots{
+  text-align:center;
+}
